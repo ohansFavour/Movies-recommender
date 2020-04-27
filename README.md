@@ -1,6 +1,8 @@
 <h1> Movies-recommender</h1>
 <p>A web based Application built with React and Redux, that recommends movies based on their ratings</p>
 
+![movie](https://user-images.githubusercontent.com/46670083/80397666-65184d80-88ae-11ea-9aa8-a9b4936ad352.PNG)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
